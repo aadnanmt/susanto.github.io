@@ -6,8 +6,6 @@
 
 Yo! Selamat datang di repo proyek portofolio untuk Susanto (Ayahku), seorang profesional di bidang kelistrikan. Ini bukan sekadar CV online, tapi sebuah *showcase* digital yang responsif dan modern.
 
-*(Saran: Coba deh rekam layar portofolionya jadi GIF terus taruh di sini. Biar makin visual!)*
-
 ![Demo Portofolio Susanto]([https://susantoelectric.vercel.app/)
 
 ## 🚀 About The Project
